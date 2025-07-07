@@ -17,4 +17,4 @@
 
 不过，选择平台时一定要注意安全。建议优先使用访问量大、更新稳定、页面干净的网站，避免落入钓鱼或带病毒的站点。使用浏览器的无痕模式和广告屏蔽插件，可以进一步保护隐私和提升体验。
 
-<span style="display:none;">[Canonical link](）</span>
+<span style="display:none;">[Canonical link](https://github.com/dungcochet20250707/dungcochet3 ）</span>
